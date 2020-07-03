@@ -40,7 +40,7 @@ AUC: 0.8276
 
 3. Feature Importance
 
-![](plots/feature importances.png)
+![](https://github.com/caroger/sparkify/blob/master/plots/feature%20importances.png)
 
 
 
